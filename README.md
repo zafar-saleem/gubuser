@@ -32,3 +32,5 @@ In order to run this project in the browser successfully, please follow the step
 
 ## Live Demo
 To view live demo please [click here](https://gubuser.herokuapp.com/).
+
+To view live screencast please [click here](https://youtu.be/LGvP3VkCXGk).
